@@ -66,5 +66,5 @@
        
     } 
 
-//file name = "tt.txt"
+//html file name = "tt.txt"
 //applet code = "TextCounterApplet.class width = 500 height  =400"
